@@ -1,0 +1,19 @@
+body{ 
+	padding: 0;
+	margin: 0;
+	background-color:#696969;
+	font-family:arial;
+}
+h1{
+	text-align:center;	
+	font-size: 50px;
+}
+p{
+	font-size:25px;
+	color:#fff;
+	text-align:center;
+}
+img{
+	width:20%
+	margin:0 40%;
+}
