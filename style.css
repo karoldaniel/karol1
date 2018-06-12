@@ -16,8 +16,13 @@ h1{
 	font-size: 28px;
 	font-family: 'Merriweather', sans-serif;
 }
-.main__sectionImg{
+.main__blockImg{
 	width: 50px;
+	padding: 10px 10px;
+
+}
+.main__blockImg:hover{
+	-webkit-transform: scale(1.5);
 }
 p{
 	color: #000;
